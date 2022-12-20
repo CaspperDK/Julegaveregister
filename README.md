@@ -28,4 +28,4 @@ Disse funktioner gør det simpelt og hurtigt for brugeren at lave sin egen men o
 How users can get started with the project
 Where users can get help with your project
 
-![This is an image]("C:\Users\justi\.scenebuilder\wimselogo.png")
+![This is an image](wimselogo.png)

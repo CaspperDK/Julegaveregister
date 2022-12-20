@@ -3,19 +3,19 @@ Dette er Alexander Wentzel, Casper Hechmann, Casper Westergaard og Justin Chardo
 Projektet er et system om "Julegaveregister" skabt i Java.
 Vores julegaveregister app er navngivet som "Ditønske.dk".
 
-Selve projektet omhandler Julegavereigster, som er et system, hvor der er tilføjet vigtige funktioner og metoder 
+Selve projektet omhandler Julegaveregister, som er et system, hvor der er tilføjet vigtige funktioner og metoder i Java samt arbejdet med Database for at få systemet til at fungere perfekt.
 
 Derudover er der blevet designet en grafisk brugergrænseflade i Scenebuilder der viser gennem skærmbilleder de forskellige komponenter og egenskaber selve appen skal kunne gøre.
 
 
 **Appens funktioner:**
-Oprette konto og login.
-Lave ønskelister til sig selv men også til familie og venner.
-Tilføje ønsker, som også inkludere tilføjelse af pris til ønske, hvem der ønsker dette og hvor man kan finde ønsket henne.
-Fjerne ønsker.
-Marker ønske som købt.
-Tilføj ønskeliste til favorit.
-Del ønskeliste.
+* Oprette konto og login.
+* Lave ønskelister til sig selv men også til familie og venner.
+* Tilføje ønsker, som også inkludere tilføjelse af pris til ønske, hvem der ønsker dette og hvor man kan finde ønsket henne.
+* Fjerne ønsker.
+* Marker ønske som købt.
+* Tilføj ønskeliste til favorit.
+* Del ønskeliste.
 
 Disse funktioner gør det simpelt og hurtigt for brugeren at lave sin egen men også lave ønskelister fra venner og familie, så brugeren enkelt har det hele liggende det samme sted og kan nemt se hvad de forskellige ønsker sig med på farten.
 
@@ -25,7 +25,6 @@ Disse funktioner gør det simpelt og hurtigt for brugeren at lave sin egen men o
 
 
 
-How users can get started with the project
-Where users can get help with your project
 
-![This is an image](wimselogo.png)
+
+![Ditønske.dk Logo](wimselogo.png)

@@ -8,7 +8,7 @@ Selve projektet omhandler Julegavereigster, som er et system, hvor der er tilfø
 Derudover er der blevet designet en grafisk brugergrænseflade i Scenebuilder der viser gennem skærmbilleder de forskellige komponenter og egenskaber selve appen skal kunne gøre.
 
 
-Appens funktioner:
+**Appens funktioner:**
 Oprette konto og login.
 Lave ønskelister til sig selv men også til familie og venner.
 Tilføje ønsker, som også inkludere tilføjelse af pris til ønske, hvem der ønsker dette og hvor man kan finde ønsket henne.
@@ -27,3 +27,5 @@ Disse funktioner gør det simpelt og hurtigt for brugeren at lave sin egen men o
 
 How users can get started with the project
 Where users can get help with your project
+
+![This is an image]("C:\Users\justi\.scenebuilder\wimselogo.png")
